@@ -1,33 +1,18 @@
-# GitHub release workflow
+# Release workflow
 
-Keep the repository private until the manuscript team and institutional release process approve public access. The commands below assume Git and the GitHub CLI are installed.
+Update an existing checkout without deleting the repository or its history. Validate the intended commit before creating a new version tag. Do not move an existing published tag.
 
-## First push
-
-```bash
-git init
-git branch -M main
-git add .
-git commit -m "Initial analysis release"
-gh auth login
-gh repo create cacao-image-lineage-benchmark --private --source=. --remote=origin --push
-```
-
-## Validate before a release
+## Validate
 
 ```bash
+python scripts/update_manifest.py
 python scripts/validate_release.py
-pytest
+PYTHONPATH=src pytest -q
 python scripts/build_release.py
 ```
 
-## Create the version tag
+## Commit and tag
 
-```bash
-git add .
-git commit -m "Prepare v1.0.2"
-git tag -a v1.0.2 -m "Cacao image lineage benchmark v1.0.2"
-git push origin main --tags
-```
+Commit the updated documentation, version metadata, and manifest together. After the commit's checks pass, create a new `v1.0.3` tag on that commit and publish the release. Preserve `v1.0.2` as the earlier analysis release.
 
-The generated ZIP, tar.gz and checksum file are written to `dist/`. Attach them to the GitHub release after public-release approval.
+Generated ZIP, tar.gz, and checksum files are written to `dist/`. Attach the complete release archives, not a partial-update ZIP. Confirm the published release contains the intended version before using its URL in the article.
