@@ -2,7 +2,7 @@
 
 This repository reconstructs file identity, transformed-image lineage and acquisition-scene dependence across public cacao disease image collections. It then compares conventional image-wise evaluation with exact-component, strict-lineage and scene-blocked validation.
 
-The repository contains the final corrected analysis code only. Exploratory artifacts, job logs, private notes, manuscript text and publication-figure generation code are excluded. Raw source images are not redistributed.
+The repository contains the analysis code and derived results. Exploratory artifacts, job logs, private notes, manuscript text and publication-figure generation code are excluded. Raw source images are not redistributed.
 
 ## Main workflow
 
@@ -26,8 +26,8 @@ cacao-benchmark validate-install
 A pip-only installation is also possible:
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
+python -m venv ../cacao-benchmark-env
+source ../cacao-benchmark-env/bin/activate
 pip install -e '.[full]'
 ```
 
@@ -52,6 +52,15 @@ The complete command order and expected inputs are described in `docs/PIPELINE.m
 ## Released derived data
 
 `data/derived/` contains compact tables, `Supplementary_Data_S1.xlsx`, and the complete photograph manifest in `Supplementary_Data_S1_manifest.tsv.gz`. These files store archive counts, lineage and split audits, verification summaries and the principal benchmark results. The workbook points to the separate manifest; distribute both together. They contain no raw photographs.
+
+## Testing
+
+```bash
+python scripts/validate_release.py
+PYTHONPATH=src pytest -q
+```
+
+The tests cover selected numerical and partitioning behavior on small fixtures. They do not rerun the complete image analysis. Publication plotting code is supplied separately from this analysis-only repository.
 
 ## Reproducibility boundary
 

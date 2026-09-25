@@ -3,11 +3,13 @@ from __future__ import annotations
 import hashlib
 import shutil
 import tempfile
+import tomllib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
-RELEASE_NAME = "cacao-image-lineage-benchmark-v1.0.1"
+PROJECT = tomllib.loads((ROOT / "pyproject.toml").read_text(encoding="utf-8"))["project"]
+RELEASE_NAME = f"{PROJECT['name']}-v{PROJECT['version']}"
 
 IGNORE = shutil.ignore_patterns(
     ".git",
