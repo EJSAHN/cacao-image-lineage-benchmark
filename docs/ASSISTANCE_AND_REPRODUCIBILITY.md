@@ -1,7 +1,5 @@
-# Assistance and reproducibility
+# Reproducibility
 
-ChatGPT and GitHub Copilot assisted drafting and debugging of code and text. Claude assisted subsequent manuscript and code review. The authors reviewed the resulting materials and are responsible for the research. Historical service/model versions were not consistently recorded.
+AI assistance in code development and manuscript preparation is disclosed in the associated article. The authors are responsible for the code and reported results.
 
-The executable tests exercise selected production functions and selected production statements on controlled fixtures. They do not rerun all data acquisition, geometric retrieval, classifier fits, or the end-to-end models. A passing test suite is a regression check, not proof of all scientific conclusions. The executed numerical workflow modules are preserved unchanged.
-
-Publication figure scripts and their frozen source tables are supplied in a separate publication-reproducibility companion. The analysis repository intentionally omits figure generation and raw source images.
+Automated tests cover package integrity and selected regression checks rather than a complete rerun of the analysis. Publication plotting scripts and frozen source tables are provided as Supplementary Code S1; raw photographs remain at their source repositories.
