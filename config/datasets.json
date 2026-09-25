@@ -1,0 +1,20 @@
+{
+  "figshare_article_id": "31294003",
+  "zenodo_record_id": "17716661",
+  "records": [
+    {
+      "repository": "Figshare",
+      "record_id": "31294003",
+      "purpose": "Consolidated public cacao disease image archives used for provenance reconstruction",
+      "api": "https://api.figshare.com/v2/articles/31294003"
+    },
+    {
+      "repository": "Zenodo",
+      "record_id": "17716661",
+      "doi": "10.5281/zenodo.17716661",
+      "title": "CocoaMoniliaDataSet",
+      "purpose": "Four-class healthy and Moniliophthora roreri symptom-stage collection",
+      "api": "https://zenodo.org/api/records/17716661"
+    }
+  ]
+}

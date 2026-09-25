@@ -1,0 +1,192 @@
+strict_image_lineage_id	label_set_machine	label_set_readable	physical_paths	exact_components	source_ids	public_collections
+CIFSTRICT_16c2fdd7856125e8	black_pod|frosty_pod	Black pod | Frosty pod	10	9	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_c494047e74506a5e	black_pod|frosty_pod	Black pod | Frosty pod	10	7	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_6cd3d4ba614cb208	black_pod|frosty_pod	Black pod | Frosty pod	9	8	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_7b3c064c68facbb8	black_pod|frosty_pod	Black pod | Frosty pod	8	7	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_d6d2bf0fb446fb4e	black_pod|frosty_pod	Black pod | Frosty pod	8	5	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_e0a1b6dbb55cf32d	black_pod|frosty_pod	Black pod | Frosty pod	7	5	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_04434dc09f7cb64d	black_pod|frosty_pod	Black pod | Frosty pod	6	5	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_09246d40f50e95fe	mirid_damage|pod_borer_damage	Mirid damage | Pod borer damage	6	3	fig_blackpod_borer|fig_cacao_diseases|fig_roboflow_mixed	Black pod-pod borer | Cacao Diseases | Roboflow mixed cacao/coffee
+CIFSTRICT_1bb0f35e2026c666	black_pod|frosty_pod	Black pod | Frosty pod	6	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_3e6f58acd2cb6771	healthy|pod_borer_damage	Healthy | Pod borer damage	6	3	fig_blackpod_borer|fig_cacao_diseases|fig_roboflow_mixed	Black pod-pod borer | Cacao Diseases | Roboflow mixed cacao/coffee
+CIFSTRICT_613d79cbdf9367a4	black_pod|frosty_pod	Black pod | Frosty pod	6	5	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f6cec9924f9c49bf	black_pod|frosty_pod	Black pod | Frosty pod	6	5	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_fc03ae5cec284a76	black_pod|frosty_pod	Black pod | Frosty pod	6	6	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_04ce2f57a0cc4222	black_pod|pod_borer_damage	Black pod | Pod borer damage	5	3	fig_blackpod_borer|fig_cacao_diseases|fig_roboflow_mixed	Black pod-pod borer | Cacao Diseases | Roboflow mixed cacao/coffee
+CIFSTRICT_518030ac62989d6f	black_pod|frosty_pod	Black pod | Frosty pod	5	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_58a21a9d776c2536	black_pod|frosty_pod	Black pod | Frosty pod	5	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_676be2758939034a	mirid_damage|pod_borer_damage	Mirid damage | Pod borer damage	5	3	fig_blackpod_borer|fig_cacao_diseases|fig_roboflow_mixed	Black pod-pod borer | Cacao Diseases | Roboflow mixed cacao/coffee
+CIFSTRICT_685097499fbcd9da	black_pod|mirid_damage|pod_borer_damage	Black pod | Mirid damage | Pod borer damage	5	3	fig_blackpod_borer|fig_cacao_diseases|fig_roboflow_mixed	Black pod-pod borer | Cacao Diseases | Roboflow mixed cacao/coffee
+CIFSTRICT_6bffa32e47d07864	black_pod|frosty_pod	Black pod | Frosty pod	5	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_778ba20341b8232f	black_pod|mirid_damage	Black pod | Mirid damage	5	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_afdcaa07616682a3	mirid_damage|pod_borer_damage	Mirid damage | Pod borer damage	5	3	fig_blackpod_borer|fig_cacao_diseases|fig_roboflow_mixed	Black pod-pod borer | Cacao Diseases | Roboflow mixed cacao/coffee
+CIFSTRICT_d4eeb079001be154	black_pod|frosty_pod	Black pod | Frosty pod	5	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_085b1467cc68cc97	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_13b3ceb59067cb11	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_14675c43be697681	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_239f2dd2b3475bba	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_32205a4b73926ec2	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_33810a52a4bc9328	black_pod|frosty_pod	Black pod | Frosty pod	4	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_411f11730375c365	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_41d0968fa72d1838	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_42a0eceedeea77cb	black_pod|frosty_pod	Black pod | Frosty pod	4	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_75ed416d8513e88e	black_pod|frosty_pod	Black pod | Frosty pod	4	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_ac35dc79eac4162a	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_bf43a836cf815394	black_pod|frosty_pod	Black pod | Frosty pod	4	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_db340f32477dd07a	black_pod|frosty_pod|healthy	Black pod | Frosty pod | Healthy	4	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_e78518974056c4d7	black_pod|frosty_pod	Black pod | Frosty pod	4	4	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_ebb838bb92cf50ae	black_pod|frosty_pod	Black pod | Frosty pod	4	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_00f5f26d3a2102a1	black_pod|healthy	Black pod | Healthy	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_0271184981ba41c4	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_05bcaa51814d488a	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_15d4ff7742e5a823	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_17a2a01903361a85	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_1893bc6a6091cd60	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_20ae6ef939bd4af4	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2776165e6cab59d4	black_pod|healthy	Black pod | Healthy	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2a2f6fa3ed59b3f5	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2ed81a3de8c854e0	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_38827591bfa2af71	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_424e8c09289ea3f7	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_48911d0706846c9c	black_pod|frosty_pod	Black pod | Frosty pod	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_515eb8ad1278159b	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_54a8a2b9b42b3e50	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_55d599b449cf10aa	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_55d9990f8076b8f6	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_569aa96e86f29640	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_5bf0a725097445ce	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_5f5132ff75211e1d	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_5fb29679279bfdca	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_687f48487b7ffca2	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_6af75ebc0be6b8ae	black_pod|frosty_pod	Black pod | Frosty pod	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_6fe35f7277d7a0a4	black_pod|healthy	Black pod | Healthy	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_713faf5c885376e1	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_7eb5f1ac1dfc72a6	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_7f05f9874a57bb33	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_857b5a31218a4b4f	black_pod|healthy	Black pod | Healthy	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_86f70e01538f25ba	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_87c6b40caa41e2ab	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_897af481368bfec5	black_pod|healthy	Black pod | Healthy	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_a41cf0f8734ab547	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_a4cd1e330e96dcc3	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_a9ec67923a07864a	black_pod|frosty_pod	Black pod | Frosty pod	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_b086da8d39cef198	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_bb2b029dc02e1d1f	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_bb57d0eb01cfa633	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_c03795e773a319bb	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_cbe972739c046884	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_d3c7848e2f447bd1	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_e4fc9af0c7e138a1	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_e7f79a62bbdfbf56	healthy|mirid_damage	Healthy | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_e87ae57d6726743a	black_pod|healthy	Black pod | Healthy	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_ef738a04e0c3c350	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f27930c6d57b3366	black_pod|frosty_pod	Black pod | Frosty pod	3	3	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f4d522bba453195f	black_pod|mirid_damage	Black pod | Mirid damage	3	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_04612c6d6f666c22	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_097eba52130a3eac	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_0b3cb163278cb693	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_0bee02094e905075	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_0ed6b5816cb7ac60	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_10162145a3e4f8f9	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_12c06fd427b6b068	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_17f9dfb01bca89e5	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_1d432437829d8d56	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_1fb2e7504f335b1e	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2006af3bd4918462	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_21b03907a22d5330	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2350c764afce2bcc	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2616aa8a64a7f3de	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_26576a886060f7c4	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_2815b06a94085541	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_29f2f5b492914393	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2be588f4e5af0f42	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2c3f14048dbab3b7	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_2dc510edcac1a791	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_32434c95d3865aeb	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_3375ec93fa479c08	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_34a85fb651d575e4	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_35a6c4fde97112d3	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_36ad28946a692a80	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_3d8678d8f559866c	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_417549b9980015d8	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_44f26215eac82002	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_48f0b016a865670e	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_4c0526bb1b48f8e9	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_4c8024f647a38fcc	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_4cb975764da80942	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_4ec6c3f05fee2f78	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_4ed291724a97cf8b	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_54c79f9525ce1ca1	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_6075286943818d95	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_612fe5c9c32230d7	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_653c2d1097058fa9	frosty_pod|mirid_damage	Frosty pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_69481db3e8fbe30f	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_69954edfe192b107	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_6a8b84963c1309a8	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_6f3bd4ffb8788594	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_7115b5fb45b7e8ea	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_719a9b932107aedd	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_765fefd49125af87	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_77e1371161547ded	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_7e9310d0eda901d0	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_80bdc18f6858bd79	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_80d446adf831b3cd	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_81d231c878cb5b7a	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_832f6fa3b32c4ba8	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_8528dcafacda49e1	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_8752d98ce4a17453	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_876a423811240ebe	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_8a31e3f2c1b277ec	frosty_pod|mirid_damage	Frosty pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_8a4439f57abbd878	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_91ce10107078bb08	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_95af81ff63d95702	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_98289e83cdfa9fe2	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_997c96ba89882070	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_9a76d1e3d42db7e1	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_9aff924a2f3d4dd4	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_9b2b89243470d656	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_9bf14679be929de3	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_a132f9ddd92cc8d5	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_a2e5024008a0bc36	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_a361f3f407224a71	black_pod|frosty_pod	Black pod | Frosty pod	2	2	fig_roboflow_mixed|fig_spanish_yolov4	Roboflow mixed cacao/coffee | Spanish YOLOv4
+CIFSTRICT_a54b95bca8983242	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_a82907268d8772c5	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_ac64db53f503510b	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_ac9f372fe15331a9	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_b09f205f8c3f7c6d	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_b1e4164aa4e7f69f	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_b2ea23829fad38ff	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_bb7635d2720864a5	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_bc9390004d058dff	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_be83d71f30c0be78	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_bf02d1929f935666	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_c47e706acc7bbcf4	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_c533a414967670d7	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_c6d358df2fdb26af	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_cd7c612e437eca08	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_cf36e80d0e6d9b6a	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_d1be0c9b3a10e075	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_d359f0c41410cf56	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_d5ffa205d9d96b5d	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_d6410fa70dc795c2	black_pod|frosty_pod	Black pod | Frosty pod	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_db1d0ce9a35398b6	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_db468efc6c827a46	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_db9afc25891b9d4b	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_dc153a96ca903f32	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_dc8609f0133f423e	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_dcad9aa45c6c8163	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_dcd5757fdf3fdac9	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_dd2b2997919c79dc	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_ded369ed6272eea8	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_dfe6ab977f3a9a35	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_e508134920d7556d	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_e7f573b37f4e646d	black_pod|frosty_pod	Black pod | Frosty pod	2	2	fig_roboflow_mixed|fig_spanish_yolov4	Roboflow mixed cacao/coffee | Spanish YOLOv4
+CIFSTRICT_e7fb03af31bbf2fb	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_ead76899be750f01	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_eb28f42ba7ae2061	black_pod|healthy	Black pod | Healthy	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f02c3bbbc7809947	frosty_pod|healthy	Frosty pod | Healthy	2	1	zen_cocoamonilia	CocoaMonilia
+CIFSTRICT_f2132f653a01b08c	black_pod|mirid_damage	Black pod | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f535903984f02ebc	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f6ded8043a14b2f1	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f763ddd8e7bda1fa	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee
+CIFSTRICT_f983c2a25472e268	healthy|mirid_damage	Healthy | Mirid damage	2	2	fig_roboflow_mixed	Roboflow mixed cacao/coffee

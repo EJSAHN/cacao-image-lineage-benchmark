@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cacao-image-lineage-benchmark"
+version = "1.0.1"
+description = "Lineage- and scene-aware benchmarking of public cacao disease image collections"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "CC0-1.0"}
+authors = [{name = "Ezekiel Ahn"}]
+keywords = ["cacao", "computer vision", "dataset audit", "image lineage", "data leakage", "benchmarking"]
+dependencies = [
+  "numpy>=1.26,<2.3",
+  "pandas>=2.2,<3.1",
+  "scipy>=1.13,<2",
+  "scikit-learn>=1.5,<2",
+  "Pillow>=10,<13",
+  "opencv-python-headless>=4.10,<5",
+  "threadpoolctl>=3.5,<4",
+  "joblib>=1.4,<2"
+]
+
+[project.optional-dependencies]
+deep-learning = ["torch>=2.5,<2.9", "torchvision>=0.20,<0.24"]
+test = ["pytest>=8,<10"]
+full = ["torch>=2.5,<2.9", "torchvision>=0.20,<0.24", "pytest>=8,<10"]
+
+[project.scripts]
+cacao-benchmark = "cacao_image_benchmark.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"cacao_image_benchmark.workflow" = ["*.py"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

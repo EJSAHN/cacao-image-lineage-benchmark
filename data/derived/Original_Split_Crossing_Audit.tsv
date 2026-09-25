@@ -1,0 +1,4 @@
+task_name	task_label	known_split_values	crossing_split_blocks	affected_strict_lineages	affected_photograph_paths	split_pattern_counts	unspecified_assignments_counted_as_partitions
+cacao_coarse_three_class	Cacao three-class	train|validation|test	137	463	563	test|train:52; test|train|validation:7; test|validation:6; train|validation:72	NO
+cacao_causal_five_class	Cacao five-class	train|validation|test	141	472	580	test|train:52; test|train|validation:7; test|validation:6; train|validation:76	NO
+cocoamonilia_four_stage	CocoaMonilia four-stage	train|validation|test	105	305	307	test|train:50; test|train|validation:7; test|validation:6; train|validation:42	NO
