@@ -1,9 +1,9 @@
-# Code provenance
+# Data and analysis provenance
 
-This public release was assembled from the final executed workflow sources. Obsolete packages and failed implementations were excluded. Three production corrections are incorporated directly:
+Source imagery is obtained from the Figshare and Zenodo records listed in `config/datasets.json`. Download metadata, file checksums, source-relative paths, and original labels are retained by the analysis workflow.
 
-1. RAR extraction prefers a modern user-specified or environment-provided `7zz` executable and reports extractor output on failure.
-2. Lineage-weighted model arrays are copied before normalization so they remain writable with pandas copy-on-write behavior.
-3. Visual-feature extraction imports scikit-learn metrics lazily because the feature environment requires PyTorch but not scikit-learn.
+The reconstruction distinguishes byte-identical file groups, transformed-photograph lineages, and acquisition-scene blocks. Source identifiers and reconstructed group identifiers connect the photograph manifest to the benchmark tables in `data/derived/`.
 
-Repair scripts, job logs, private prompts, collaborator correspondence and publication-figure generation code are not part of this repository.
+`docs/PIPELINE.md` describes the analysis sequence, and `docs/OUTPUTS.md` defines the grouping levels. The implemented procedures are in `src/cacao_image_benchmark/workflow/`.
+
+Raw photographs remain subject to their source licenses. Publication plotting scripts and their input tables are provided as Supplementary Code S1.
