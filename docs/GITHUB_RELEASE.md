@@ -1,18 +1,15 @@
-# Release workflow
+# Source distributions
 
-Update an existing checkout without deleting the repository or its history. Validate the intended commit before creating a new version tag. Do not move an existing published tag.
-
-## Validate
+From a clean checkout with the package and test dependencies installed, run:
 
 ```bash
-python scripts/update_manifest.py
 python scripts/validate_release.py
 PYTHONPATH=src pytest -q
 python scripts/build_release.py
 ```
 
-## Commit and tag
+The build creates a ZIP archive, a tar.gz archive, and a SHA-256 checksum file in `dist/`. Archive names use the package name and version in `pyproject.toml`.
 
-Commit the updated documentation, version metadata, and manifest together. After the commit's checks pass, create a new `v1.0.3` tag on that commit and publish the release. Preserve `v1.0.2` as the earlier analysis release.
+For a new software version, keep `pyproject.toml`, `CITATION.cff`, and `src/cacao_image_benchmark/__init__.py` consistent. After editing tracked files, regenerate `MANIFEST.sha256.tsv` with `python scripts/update_manifest.py`, then repeat validation and testing. Review the changes and commit the files and manifest together.
 
-Generated ZIP, tar.gz, and checksum files are written to `dist/`. Attach the complete release archives, not a partial-update ZIP. Confirm the published release contains the intended version before using its URL in the article.
+Create the version tag from the validated commit. Distribute the complete source archive with its checksums, and cite that tag when referring to a specific version.

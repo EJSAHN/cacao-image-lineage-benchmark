@@ -2,7 +2,7 @@
 
 This repository reconstructs file identity, transformed-image lineage and acquisition-scene dependence across public cacao disease image collections. It then compares conventional image-wise evaluation with exact-component, strict-lineage and scene-blocked validation.
 
-The repository contains the analysis code and derived results. Exploratory artifacts, job logs, private notes, manuscript text and publication-figure generation code are excluded. Raw source images are not redistributed.
+The repository provides Python workflows, configuration files, derived tables, and regression tests. Source photographs are obtained from the original repositories. Publication plotting scripts and their input tables are provided as Supplementary Code S1.
 
 ## Main workflow
 
@@ -40,7 +40,7 @@ cacao-benchmark list
 cacao-benchmark step-help download_public_data
 ```
 
-Each public command forwards its remaining options to one validated workflow module. For example:
+Each command forwards its remaining options to the corresponding workflow module. For example:
 
 ```bash
 source config/paths.env.example
@@ -60,7 +60,7 @@ python scripts/validate_release.py
 PYTHONPATH=src pytest -q
 ```
 
-The tests cover selected numerical and partitioning behavior on small fixtures. They do not rerun the complete image analysis. Publication plotting code is supplied separately from this analysis-only repository.
+The tests cover selected numerical and partitioning behavior on small fixtures. They do not rerun the complete image analysis. Publication plotting code is provided as Supplementary Code S1.
 
 ## Reproducibility boundary
 
@@ -68,7 +68,7 @@ Fixed seeds are specified for the recorded evaluation designs; bitwise agreement
 
 ## Citation
 
-Use `CITATION.cff`. The manuscript DOI can be added after publication.
+Use `CITATION.cff` to cite the software.
 
 ## License and source-data notice
 

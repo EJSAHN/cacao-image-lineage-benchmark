@@ -1,7 +1,13 @@
-# Release 1.0.2
+# Release notes
 
-Canonical CC0 text and a regenerated release manifest; expanded executable tests for probability alignment, empirical matched-null inference, split membership, lineage weighting, and validation/test separation; revised documentation and supplementary-data packaging. The 40 files under `src/cacao_image_benchmark/workflow/` are byte-identical to version 1.0.1. No numerical workflow, fitted classifier, threshold, grouping, or frozen metric has been changed.
+## 1.0.3
 
-The workbook includes actual stored null-replicate metrics and a design guide. Plotting sources are distributed in a separate publication companion, not the analysis-only repository. Versioned release status and institutional release permission must be established by the repository owner.
+Analysis code and derived data accompanying *Reconstructing image lineage and acquisition scenes for independent evaluation of cacao disease classifiers*.
 
-Release archive names are read from pyproject.toml so that packaging and declared versions remain synchronized.
+This version includes:
+
+- Image inventory, label harmonization, and reconstruction of exact-file groups, photograph lineages, and acquisition-scene blocks.
+- Grouped classification benchmarks, matched-removal controls, restricted-input comparisons, and end-to-end sensitivity analyses.
+- Supplementary Data S1, the complete photograph manifest, and automated regression tests.
+
+Publication plotting scripts and their input tables are provided as Supplementary Code S1.
