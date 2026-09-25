@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this software and the associated article when using the lineage or split-block tables."
 title: "Cacao Image Lineage Benchmark"
 type: software
-version: 1.0.2
+version: 1.0.3
 date-released: 2026-09-25
 authors:
   - family-names: Ahn
