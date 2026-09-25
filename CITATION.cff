@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite this software and the associated article when using the lineage or split-block tables."
 title: "Cacao Image Lineage Benchmark"
 type: software
-version: 1.0.1
-date-released: 2026-09-24
+version: 1.0.2
+date-released: 2026-09-25
 authors:
   - family-names: Ahn
     given-names: Ezekiel
@@ -14,3 +14,4 @@ keywords:
   - data leakage
   - image lineage
   - benchmark validation
+repository-code: "https://github.com/EJSAHN/cacao-image-lineage-benchmark"

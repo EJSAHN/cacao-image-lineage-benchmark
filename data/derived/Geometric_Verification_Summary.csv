@@ -3,19 +3,19 @@ Perceptual/origin search,VERIFIED_DERIVATIVE_STRONG,Strong transformed derivativ
 Perceptual/origin search,VERIFIED_DERIVATIVE_MODERATE,Moderate transformed derivative,19,2120,YES
 Perceptual/origin search,GEOMETRIC_SAME_SCENE_ONLY,Verified same scene/context,50,2120,YES
 Perceptual/origin search,AMBIGUOUS_MANUAL_REVIEW,Ambiguous manual review,9,2120,YES
-Perceptual/origin search,REJECTED_NOT_DERIVATIVE,Rejected: different images,42,2120,YES
+Perceptual/origin search,REJECTED_NOT_DERIVATIVE,Rejected by verifier,42,2120,YES
 Primary embedding search,VERIFIED_DERIVATIVE_STRONG,Strong transformed derivative,10,6000,YES
 Primary embedding search,VERIFIED_DERIVATIVE_MODERATE,Moderate transformed derivative,11,6000,YES
 Primary embedding search,GEOMETRIC_SAME_SCENE_ONLY,Verified same scene/context,521,6000,YES
 Primary embedding search,AMBIGUOUS_MANUAL_REVIEW,Ambiguous manual review,671,6000,YES
-Primary embedding search,REJECTED_NOT_DERIVATIVE,Rejected: different images,4787,6000,YES
+Primary embedding search,REJECTED_NOT_DERIVATIVE,Rejected by verifier,4787,6000,YES
 Full embedding reserve,VERIFIED_DERIVATIVE_STRONG,Strong transformed derivative,43,21774,YES
 Full embedding reserve,VERIFIED_DERIVATIVE_MODERATE,Moderate transformed derivative,32,21774,YES
 Full embedding reserve,GEOMETRIC_SAME_SCENE_ONLY,Verified same scene/context,990,21774,YES
 Full embedding reserve,AMBIGUOUS_MANUAL_REVIEW,Ambiguous manual review,1447,21774,YES
-Full embedding reserve,REJECTED_NOT_DERIVATIVE,Rejected: different images,19262,21774,YES
+Full embedding reserve,REJECTED_NOT_DERIVATIVE,Rejected by verifier,19262,21774,YES
 All non-overlapping candidate searches,VERIFIED_DERIVATIVE_STRONG,Strong transformed derivative,2053,29894,YES
 All non-overlapping candidate searches,VERIFIED_DERIVATIVE_MODERATE,Moderate transformed derivative,62,29894,YES
 All non-overlapping candidate searches,GEOMETRIC_SAME_SCENE_ONLY,Verified same scene/context,1561,29894,YES
 All non-overlapping candidate searches,AMBIGUOUS_MANUAL_REVIEW,Ambiguous manual review,2127,29894,YES
-All non-overlapping candidate searches,REJECTED_NOT_DERIVATIVE,Rejected: different images,24091,29894,YES
+All non-overlapping candidate searches,REJECTED_NOT_DERIVATIVE,Rejected by verifier,24091,29894,YES

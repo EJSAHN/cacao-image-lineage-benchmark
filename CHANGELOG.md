@@ -1,5 +1,7 @@
-# Release 1.0.1
+# Release 1.0.2
 
-Documentation and supplementary-data packaging revision for the cacao image-lineage manuscript. All files in `src/cacao_image_benchmark/workflow/` remain byte-identical to release 1.0.0. No numerical method, model, grouping, threshold, or frozen result was rerun or changed.
+Canonical CC0 text and a regenerated release manifest; expanded executable tests for probability alignment, empirical matched-null inference, split membership, lineage weighting, and validation/test separation; revised documentation and supplementary-data packaging. The 40 files under `src/cacao_image_benchmark/workflow/` are byte-identical to version 1.0.1. No numerical workflow, fitted classifier, threshold, grouping, or frozen metric has been changed.
 
-The review workbook now contains summary sheets and a pointer to the complete compressed manifest. The manifest is distributed beside the workbook. Source-derived numerical values and identifiers are preserved. Uncertainty and grouping notes distinguish reconstruction constraints from biological specimens. Public-release approval is not implied by this archive.
+The workbook includes actual stored null-replicate metrics and a design guide. Plotting sources are distributed in a separate publication companion, not the analysis-only repository. Versioned release status and institutional release permission must be established by the repository owner.
+
+Release archive names are read from pyproject.toml so that packaging and declared versions remain synchronized.

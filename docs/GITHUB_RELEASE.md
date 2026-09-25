@@ -25,8 +25,8 @@ python scripts/build_release.py
 
 ```bash
 git add .
-git commit -m "Prepare v1.0.1"
-git tag -a v1.0.1 -m "Cacao image lineage benchmark v1.0.1"
+git commit -m "Prepare v1.0.2"
+git tag -a v1.0.2 -m "Cacao image lineage benchmark v1.0.2"
 git push origin main --tags
 ```
 

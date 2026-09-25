@@ -1,5 +1,7 @@
-# Implementation assistance and reproducibility
+# Assistance and reproducibility
 
-ChatGPT (OpenAI) and GitHub Copilot (GitHub) assisted code drafting, debugging and plotting-code preparation in the research workflow. The analysis results were computed by the executed scripts. Historical assistant service/model versions were not consistently recorded and are not inferred retrospectively. The article provides the research and writing disclosure. Public release remains subject to author and institutional approval.
+ChatGPT and GitHub Copilot assisted drafting and debugging of code and text. Claude assisted subsequent manuscript and code review. The authors reviewed the resulting materials and are responsible for the research. Historical service/model versions were not consistently recorded.
 
-This analysis-only repository does not include publication plotting programs or primary imagery. The workflow source files are unchanged in the 1.0.1 documentation release. The attached manuscript and supplement distinguish inferred image lineage from conservative context-based split constraints.
+The executable tests exercise selected production functions and selected production statements on controlled fixtures. They do not rerun all data acquisition, geometric retrieval, classifier fits, or the end-to-end models. A passing test suite is a regression check, not proof of all scientific conclusions. The executed numerical workflow modules are preserved unchanged.
+
+Publication figure scripts and their frozen source tables are supplied in a separate publication-reproducibility companion. The analysis repository intentionally omits figure generation and raw source images.
