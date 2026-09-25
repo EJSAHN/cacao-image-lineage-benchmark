@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cacao-image-lineage-benchmark"
-version = "1.0.2"
+version = "1.0.3"
 description = "Lineage- and scene-aware benchmarking of public cacao disease image collections"
 readme = "README.md"
 requires-python = ">=3.11"
