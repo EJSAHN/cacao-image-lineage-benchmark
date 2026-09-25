@@ -23,18 +23,12 @@ sbatch --account="$SLURM_ACCOUNT" --partition=ceres --array=1-N%CONCURRENCY   --
 
 Use `cacao-benchmark step-help COMMAND` to inspect required options before constructing an array job. Keep persistent tables and code under `/project`; use `/90daydata` only for downloadable archives, extracted images, embeddings and model caches.
 
-## Refreshing a working cache
+## Working storage
 
-SCINet working storage is temporary. The helper below updates access and modification timestamps and writes an audit report:
+`/90daydata` is temporary and is not backed up. The helper below updates file timestamps in the working cache and writes an audit report; it does not provide a backup:
 
 ```bash
 bash scripts/refresh_working_data.sh "$CACAO_WORKING_ROOT"
 ```
 
-This is not a backup. The code, compact derived tables and release archives should also be stored in persistent project storage and an external repository.
-
-## Retention is not a backup
-
-A timestamp-refresh helper does not provide guaranteed retention or a backup. SCINet states that cluster storage is not backed up, that files older than 90 days in short-term storage are deleted permanently, and that irreplaceable results should be transferred to appropriate long-term storage such as Juno. Consult the current policy rather than treating a successful `touch` or Slurm status as a preservation guarantee. Avoid redundant archival storage of publicly downloadable raw data.
-
-Policy: https://scinet.usda.gov/guides/data/storage
+Keep code, derived tables and release archives in persistent project storage. See the SCINet storage policy: https://scinet.usda.gov/guides/data/storage

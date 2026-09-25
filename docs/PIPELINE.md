@@ -1,7 +1,5 @@
 # Reproduction pipeline
 
-The public command names below replace the development-time package labels while retaining the frozen numerical methods and output schemas.
-
 | Order | Command | Purpose |
 |---:|---|---|
 | 1 | `download_public_data` | Download and checksum the public records. |
@@ -9,11 +7,11 @@ The public command names below replace the development-time package labels while
 | 3 | `build_archive_manifest` | Create one extraction task per source archive. |
 | 4 | `extract_archive` | Extract one archive; use a job array for multiple archives. |
 | 5 | `build_canonical_manifest` | Classify photographs, masks and annotations and calculate exact file and decoded-pixel hashes. |
-| 6 | `harmonize_labels` | Apply the corrected pathology and stage ontology and reconcile public split files. |
+| 6 | `harmonize_labels` | Apply the harmonized pathology and stage ontology and reconcile public split files. |
 | 7 | `compute_perceptual_hashes` | Calculate orientation-aware perceptual hashes for exact-component representatives. |
 | 8 | `discover_perceptual_candidates` | Generate transformed-lineage candidates and metadata-only controls. |
 | 9 | `prepare_geometric_verification` | Create candidate and control pair tables. |
-| 10 | `verify_image_pairs` | Apply the frozen SIFT/ORB/RANSAC and photometric verifier. |
+| 10 | `verify_image_pairs` | Apply the SIFT/ORB/RANSAC and photometric verifier. |
 | 11 | `build_initial_lineages` | Aggregate controls and construct initial strict and scene-aware families. |
 | 12 | `extract_image_embeddings` | Extract frozen ResNet-18 and EfficientNet-B0 embeddings. |
 | 13 | `retrieve_embedding_candidates` | Run the exact blockwise cosine-neighbor sweep. |
@@ -46,4 +44,4 @@ Exact arguments for each command are available with:
 cacao-benchmark step-help COMMAND
 ```
 
-Large pair verification, model configuration and image-cache commands are designed for Slurm arrays. The table-producing aggregation commands do not generate manuscript figures in this public analysis release.
+Large pair verification, model configuration and image-cache commands are designed for Slurm arrays. The table-producing aggregation commands do not generate manuscript figures; publication plotting scripts are provided as Supplementary Code S1.

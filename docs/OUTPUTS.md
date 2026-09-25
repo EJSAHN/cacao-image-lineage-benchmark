@@ -1,6 +1,6 @@
 # Output schema
 
-Generated filenames preserve immutable provenance identifiers used by the released checksums and Supplementary Data workbook. They do not denote alternative numerical methods.
+Output filenames retain the identifiers used in the release checksums and in Supplementary Data S1.
 
 The final analysis units are:
 
